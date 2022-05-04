@@ -21,7 +21,9 @@
     <button @click="append('0')" class="btn zero">0</button>
     <button @click="dot" class="btn">.</button>
     <button @click="equal" class="btn operator">=</button>
-    <button @click="append(' ')" class="btn zero">Espace</button>
+    <button @click="append(' ')" class="btn">Espace</button>
+    <button class="btn">Neg</button>
+    
   </div>
   </div>
 </template>
