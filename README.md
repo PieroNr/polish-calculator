@@ -56,20 +56,3 @@ Précisions :
    
 Chaque critère est évalué sur 20 et pèse pour 25% de la note.
 
-## Répartition des tâches
-
-Timothée:
-
-Piero:
-
-Tristan:
-
-Adrien:
-- front 
-
-Paul:
-
-Jessy:
-
-Cécile:
-
