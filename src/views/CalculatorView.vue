@@ -30,7 +30,7 @@
       </div>
     </transition>
 
-    <p>Made with ❤ by Adrien BOUTEILLER, Piero NERI, Timothée DURAND, Tristan SECLET, Cécile DENONCIN, Jessy ERNATUS et Paul COTOGNO</p>
+    <p>Made with ❤ by Adrien BOUTEILLER, Piero NERI, Timothée DURAND, Tristan SECLET, Cécile DENONCIN, Jessy ERNATUS and Paul COTOGNO</p>
   </div>
 </template>
 
